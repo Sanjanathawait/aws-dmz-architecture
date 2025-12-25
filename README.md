@@ -1,5 +1,6 @@
-# AWS DMZ Architecture – Minor Project
 
+
+# AWS DMZ Architecture – Minor Project
 ## Overview
 This repository contains the **Minor Project** for the course requirement, focusing on the
 design and deployment of a **DMZ-based cloud infrastructure on Amazon Web Services (AWS)**.
@@ -57,6 +58,7 @@ The Major Project will extend this work to include:
 ## Author
 **Sanjana Thawait**  
 B.Tech CSE (Cybersecurity)
+erp:6604710 5th sem
 
 ---
 
